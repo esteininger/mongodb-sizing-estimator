@@ -1,6 +1,6 @@
 # Mongo Size Estimator
 
-Foobar is a Python library for dealing with word pluralization.
+This is a project to help estimate what your MongoDB Atlas cluster IOPS will be, given existing MongoDB database usage.
 
 ## Installation
 
